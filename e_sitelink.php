@@ -69,3 +69,4 @@ class youtube_sitelink // include plugin-folder in the name.
 	}
 	
 }
+?>

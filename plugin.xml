@@ -14,6 +14,6 @@
 		<link url="{e_PLUGIN}youtube/youtube.php" sef='index' perm="everyone" >YouTube</link>
 	</siteLinks>
 	<adminLinks>
-		<link url="admin_config.php" icon="images/icon_32.gif" iconSmall="images/icon_16.gif" primary="true" >LAN_CONFIGURE</link>
+		<link url="admin_config.php" icon="images/youtube_32.png" iconSmall="images/youtube_16.png" icon128="images/youtube_128.png" primary="true" >LAN_CONFIGURE</link>
 	</adminLinks>
 </e107Plugin>
