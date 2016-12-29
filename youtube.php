@@ -13,6 +13,11 @@ if (!defined('e107_INIT'))
 	require_once("../../class2.php");
 }
 
+if(!e107::isInstalled('youtube'))
+{
+e107::redirect();
+}
+
 e107::css('youtube', 'youtube.css');
 
 e107::lan('youtube',false, true);
